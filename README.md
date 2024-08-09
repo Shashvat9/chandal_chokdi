@@ -1,2 +1,2 @@
 # chandal_chokdi
-for heckout 2024 daiict
+Hackout'24 at DA-IICT
